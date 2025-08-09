@@ -24,7 +24,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=apahc&show_icons=true&theme=dracula&title_color=b000bd&text_color=ffffff&locale=en" alt="apahc" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apahc&show_icons=true&theme=dracula&title_color=ff0066&text_color=ffffff&locale=en&layout=compact" alt="apahc" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apahc&show_icons=true&theme=dracula&title_color=ff0066&text_color=ffffff&locale=en&layout=compact&hide=css,html" alt="apahc" />
 </div>
 
 
